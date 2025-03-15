@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Youssef\\Projects\\Routes_Course\\MVC\\Ass_2\\C43-G02-MVC02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50904E47-90FD-424F-83B5-FA4984E2BC62}|Assignment_1\\Assignment_1.csproj|d:\\youssef\\projects\\routes_course\\mvc\\ass_2\\c43-g02-mvc02\\assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50904E47-90FD-424F-83B5-FA4984E2BC62}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50904E47-90FD-424F-83B5-FA4984E2BC62}|Assignment_1\\Assignment_1.csproj|d:\\youssef\\projects\\routes_course\\mvc\\ass_2\\c43-g02-mvc02\\assignment_1\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50904E47-90FD-424F-83B5-FA4984E2BC62}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moviecontroller.cs",
+              "DocumentMoniker": "D:\\Youssef\\Projects\\Routes_Course\\MVC\\Ass_2\\C43-G02-MVC02\\Assignment_1\\Controllers\\Moviecontroller.cs",
+              "RelativeDocumentMoniker": "Assignment_1\\Controllers\\Moviecontroller.cs",
+              "ToolTip": "D:\\Youssef\\Projects\\Routes_Course\\MVC\\Ass_2\\C43-G02-MVC02\\Assignment_1\\Controllers\\Moviecontroller.cs",
+              "RelativeToolTip": "Assignment_1\\Controllers\\Moviecontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:35:06.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Youssef\\Projects\\Routes_Course\\MVC\\Ass_2\\C43-G02-MVC02\\Assignment_1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_1\\Program.cs",
+              "ToolTip": "D:\\Youssef\\Projects\\Routes_Course\\MVC\\Ass_2\\C43-G02-MVC02\\Assignment_1\\Program.cs",
+              "RelativeToolTip": "Assignment_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T08:03:16.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
