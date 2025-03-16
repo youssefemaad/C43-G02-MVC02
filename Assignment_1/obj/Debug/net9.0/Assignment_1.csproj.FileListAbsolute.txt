@@ -226,4 +226,3 @@ D:\Youssef\Projects\Routes_Course\MVC\Ass_2\C43-G02-MVC02\Assignment_1\obj\Debug
 D:\Youssef\Projects\Routes_Course\MVC\Ass_2\C43-G02-MVC02\Assignment_1\obj\Debug\net9.0\Assignme.0A7F7640.Up2Date
 D:\Youssef\Projects\Routes_Course\MVC\Ass_2\C43-G02-MVC02\Assignment_1\obj\Debug\net9.0\Assignment_1.RazorAssemblyInfo.cache
 D:\Youssef\Projects\Routes_Course\MVC\Ass_2\C43-G02-MVC02\Assignment_1\obj\Debug\net9.0\Assignment_1.RazorAssemblyInfo.cs
-D:\Youssef\Projects\Routes_Course\MVC\Ass_2\C43-G02-MVC02\Assignment_1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

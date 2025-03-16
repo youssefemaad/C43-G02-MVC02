@@ -12,10 +12,31 @@
     <header>
         <center>
             <nav class="mt-2">
-                <a href="~/Home/Index" class="btn btn-primary">Home</a> |
+                @* 1.html Tags | static Html *@
+                @* <a href="~/Home/Index" class="btn btn-primary">Home</a> |
                 <a href="~/Home/Privacy" class="btn btn-warning">Privacy</a> |
                 <a href="~/Home/AboutUs" class="btn btn-success">About Us</a>
                 <a href="~/Home/Contact" class="btn btn-secondary">Contact</a>
+                <a href="~/Account/SignIn" class="btn btn-danger">Sign In</a>
+                <a href="~/Account/Register" class="btn btn-info">Register</a> *@
+
+                @* 2.html Helpers | Server-Side *@
+                @* @Html.ActionLink("Home", "Index", "Home", htmlAttributes: new { @class = "btn btn-primary" }) |
+                @Html.ActionLink("Privacy", "Privacy", "Home", htmlAttributes: new { @class = "btn btn-warning" }) |
+                @Html.ActionLink("About Us", "AboutUs", "Home", htmlAttributes: new { @class = "btn btn-success" }) |
+                @Html.ActionLink("Contact", "Contact", "Home", htmlAttributes: new { @class = "btn btn-secondary" }) |
+                @Html.ActionLink("Sign In", "SignIn", "Account", htmlAttributes: new { @class = "btn btn-danger" }) |
+                @Html.ActionLink("Register", "Register", "Account", htmlAttributes: new { @class = "btn btn-info" }) *@
+
+                @* 3. Tag Helpers *@
+                <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Home</a> |
+                <a asp-controller="Home" asp-action="Privacy" class="btn btn-warning">Privacy</a> |
+                <a asp-controller="Home" asp-action="AboutUs" class="btn btn-success">About Us</a> |
+                <a asp-controller="Home" asp-action="Contact" class="btn btn-secondary">Contact</a> |
+                <a asp-controller="Account" asp-action="SignIn" class="btn btn-danger">Sign In</a> |
+                <a asp-controller="Account" asp-action="Register" class="btn btn-info">Register</a>
+
+
             </nav>
         </center>
     </header>
