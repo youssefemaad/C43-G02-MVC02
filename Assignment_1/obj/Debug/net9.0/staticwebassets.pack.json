@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Youssef\\Projects\\Routes_Course\\MVC\\Ass_2\\C43-G02-MVC02\\Assignment_1\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Youssef\\Projects\\Routes_Course\\MVC\\Ass_2\\C43-G02-MVC02\\Assignment_1\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Youssef\\Projects\\Routes_Course\\MVC\\Ass_2\\C43-G02-MVC02\\Assignment_1\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Youssef\\Projects\\Routes_Course\\MVC\\Ass_2\\C43-G02-MVC02\\Assignment_1\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Youssef\\Projects\\Routes_Course\\MVC\\Ass_2\\C43-G02-MVC02\\Assignment_1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Youssef\\Projects\\Routes_Course\\MVC\\Ass_2\\C43-G02-MVC02\\Assignment_1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Youssef\\Projects\\Routes_Course\\MVC\\Ass_2\\C43-G02-MVC02\\Assignment_1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Youssef\\Projects\\Routes_Course\\MVC\\Ass_2\\C43-G02-MVC02\\Assignment_1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Assignment_1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Assignment_1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Assignment_1.props",
+      "PackagePath": "build\\Assignment_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment_1.props",
+      "PackagePath": "buildMultiTargeting\\Assignment_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Assignment_1.props",
+      "PackagePath": "buildTransitive\\Assignment_1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
